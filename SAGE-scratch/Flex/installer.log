@@ -1,0 +1,33 @@
+Installer version 3.2.0 (windows)
+Using Locale: en_US
+Fetched the SDK download mirror URL from the CGI.
+SDK version Apache Flex SDK 4.15.0
+AIR version 3.2
+Flash Player version 11.2
+Creating Apache Flex home
+Creating temporary directory
+Downloading Apache Flex SDK from: http://archive.apache.org/dist/flex/4.15.0/binaries/apache-flex-sdk-4.15.0-bin.zip
+Verifying Apache Flex SDK MD5 Signature
+The Apache Flex SDK MD5 Signature of the downloaded files matches the reference. The file is valid.
+Uncompressing: C:\Users\Ole\Documents\GitHub\SAGE-scratch\Flex\temp\apache-flex-sdk-4.15.0-bin.zip
+Finished uncompressing: C:\Users\Ole\Documents\GitHub\SAGE-scratch\Flex\temp\apache-flex-sdk-4.15.0-bin.zip
+Downloading Adobe AIR Runtime Kit for Windows from: http://airdownload.adobe.com/air/win/download/3.2//AdobeAIRSDK.zip
+Finished uncompressing: C:\Users\Ole\Documents\GitHub\SAGE-scratch\Flex/in/AdobeAIRSDK.zip
+Installing Adobe Flash Player playerglobal.swc from: http://fpdownload.macromedia.com/get/flashplayer/updaters/11//playerglobal11_2.swc
+Validating download: C:\Users\Ole\Documents\GitHub\SAGE-scratch\Flex/frameworks/libs/player/11.2/playerglobal.swc
+Downloading 2.2.zip from: https://github.com/swfobject/swfobject/archive
+Validating download: C:\Users\Ole\Documents\GitHub\SAGE-scratch\Flex/in/swfobject_2_2.zip
+Download complete
+Downloading OSMF2_0.swc?format=raw from: http://sourceforge.net/adobe/flexsdk/code/HEAD/tree/trunk/frameworks/libs
+Validating download: C:\Users\Ole\Documents\GitHub\SAGE-scratch\Flex/frameworks/libs/osmf.swc
+Downloading afe.jar?format=raw from: http://sourceforge.net/adobe/flexsdk/code/HEAD/tree/trunk/lib
+Validating download: C:\Users\Ole\Documents\GitHub\SAGE-scratch\Flex/lib/external/optional/afe.jar
+Downloading aglj40.jar?format=raw from: http://sourceforge.net/adobe/flexsdk/code/HEAD/tree/trunk/lib
+Validating download: C:\Users\Ole\Documents\GitHub\SAGE-scratch\Flex/lib/external/optional/aglj40.jar
+Downloading flex-fontkit.jar?format=raw from: http://sourceforge.net/adobe/flexsdk/code/HEAD/tree/trunk/lib
+Validating download: C:\Users\Ole\Documents\GitHub\SAGE-scratch\Flex/lib/external/optional/flex-fontkit.jar
+Downloading rideau.jar?format=raw from: http://sourceforge.net/adobe/flexsdk/code/HEAD/tree/trunk/lib
+Validating download: C:\Users\Ole\Documents\GitHub\SAGE-scratch\Flex/lib/external/optional/rideau.jar
+Installing frameworks configuration files configured for use with an IDE
+C:\Users\Ole\Documents\GitHub\SAGE-scratch\Flex is now an IDE compatible folder
+Installation complete
